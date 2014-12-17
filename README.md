@@ -8,6 +8,6 @@ This project contains IPython Notebooks on the following topics:
 - First Order Ordinary Differential Equation - Euler method, Improved Euler method, Runge Kutta 4th Order method
 - System of First Order ODEs or Higher Order ODEs - Euler method, Runge-Kutta method
 - Examples
--   Airy Equation
--   Blasius Equation
+-   Airy Equation (Second order ODE)
+-   Blasius' Equation (Third order ODE)
 - More to come...
